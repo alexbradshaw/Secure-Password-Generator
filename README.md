@@ -1,4 +1,4 @@
-# <Horiseon Completed>
+# <Secure Password Generator>
 ## Description
 Why did you build this project?
 - To create a secure password generator for my 'company'.
@@ -7,10 +7,10 @@ What problem does it solve?
 What did you learn?
 - I probably over complicate things with if statements but it somehow ends up working.
 ## Screenshots
-#Code
-![screenshot of pages](./Assets/screenshot1.jpeg?raw=true)
-#Actual Webpage
-![screenshot of pages](./Assets/screenshot2.jpeg?raw=true)
+# Code
+![screenshot of pages](Assets/Screenshot1.jpg?raw=true)
+# Actual Webpage
+![screenshot of pages](Assets/Screenshot2.jpg?raw=true)
 ## Credits
 Trilogy Education
 Me
