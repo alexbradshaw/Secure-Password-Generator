@@ -6,10 +6,10 @@ What problem does it solve?
 - Stops my users from reusing the same password for all their accounts.
 What did you learn?
 - I probably over complicate things with if statements but it somehow ends up working.
-## Screenshots
-# Code
+# Screenshots
+## Code
 ![screenshot of pages](Assets/Screenshot1.jpg?raw=true)
-# Actual Webpage
+## Actual Webpage
 ![screenshot of pages](Assets/Screenshot2.jpg?raw=true)
 ## Link to Webpage
 https://alexbradshaw.github.io/Secure-Password-Generator/
